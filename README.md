@@ -1,3 +1,7 @@
+# Calculator React App
+
+Simple Calulator Application using React Js.
+
 ## Live Demo
 
 https://xenodochial-hugle-833e52.netlify.com/
